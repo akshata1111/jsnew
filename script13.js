@@ -1,16 +1,16 @@
 let city  = "pune"
 
-switch(city){
+// switch(city){
 
- case "pune":
-console.log("MH")
- case "jaipur";
-console.log("RJ")
-case "banglore":
- console.log("KA")
-default:
-console.log('Incorrect cityName')
-}
+//     case "pune":
+//         console.log("MH")
+//     case "jaipur":
+//         console.log("RJ")
+//     case "banglore":
+//         console.log("KA")
+//     default:
+//         console.log('Incorrect cityName')
+// }
 
 // switch(city){
 //     case "pune":
