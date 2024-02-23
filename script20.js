@@ -28,19 +28,22 @@
 // console.log(e3)
 
 
-let marks = [33,44,55,33,44,55,66,77,88]
-let above50 =[]
-   for(let i = 0; i < marks.lenghth; i++){
-    console.log(i)
-    console.log(marks[i])
+// let marks = [33,44,55,33,44,55,66,77,88]
+// let above50 =[]
+//    for(let i = 0; i < marks.lenghth; i++){
+//     console.log(i)
+//     console.log(marks[i])
 
-    if (marks[i]> 50){
-        console.log(marks[i])
-        above50.push(marks[i])
-    }
+//     if (marks[i]> 50){
+//         console.log(marks[i])
+//         above50.push(marks[i])
+//     }
     
-}
-console.log(above50)
+// }
+// console.log(above50)
+
+
+
 
 
 

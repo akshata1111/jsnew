@@ -34,8 +34,8 @@ let country =  ["india","srilanka","bangladesh","nepal"]
 console.log(country)
 let y = 0
 while(y < country.length){
-    console.log(y)
-    console.log(country[y])
+    //console.log(y)
+    //console.log(country[y])
     y = y + 1
 
 }
