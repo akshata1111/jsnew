@@ -19,6 +19,7 @@ let students = [
         age: 25,
         skills: ["python", "html", "cypress"],
         city: "nagpur"
+        
     },
     {
         firstName: "mayuri",
