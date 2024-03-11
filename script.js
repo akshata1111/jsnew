@@ -4,7 +4,7 @@ switch(city){
 
  case "pune":
 console.log("MH")
- case "jaipur";
+ case "jaipur":
 console.log("RJ")
 case "banglore":
  console.log("KA")

@@ -1,20 +1,22 @@
-selecting the element
 <h1 id = "one" class = "two" name = "nm">Learning js</h1>
 
-byTagName
+//TagName
 let byTagName = document.querySelector('h1')
 console.log(byTagName)
-byId
+
+//byId
 let byId = document.querySelector('#one')
 console.log(byId)
-byClassName
+
+//byClassName
 let byClassName = document.querySelector('.two')
 console.log(byClassName)
-byAttribute
+
+//byAttribute
 let byAttribue = document.querySelector('h1[class="two"]')
 console.log(byAttribue)
 
-  <p id = "three" class = "four" name = "five">para</p>
+  <p> id = "three" class = "four" name = "five">para </p>
 
 tagName
 let bytagName = document.querySelector('p')
@@ -25,9 +27,10 @@ let byIde = document.querySelector('#three')
 console.log(byIde)
 
 class
-let byClass  =document.querySelector('.four')
+let byClass  = document.querySelector('.four')
 console.log(byClass)
-byAny attribute
+
+byAnyattribute
 
 let byA  = document.querySelector('p[name="five"]')
 console.log(byA)
