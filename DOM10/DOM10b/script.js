@@ -16,7 +16,7 @@ console.log(byClassName)
 let byAttribue = document.querySelector('h1[class="two"]')
 console.log(byAttribue)
 
-  <p> id = "three" class = "four" name = "five">para </p>
+  <p id = "three" class = "four" name = "five">para </p>
 
 tagName
 let bytagName = document.querySelector('p')
