@@ -103,7 +103,7 @@ console.log(SaurabhA)
 
 
 AkshataA.firstName = "AkshataA"
-AkshataA['lastName'] = "SonkusaleA"
+AkshataA.lastName= "SonkusaleA"
 console.log(AkshataA)
 
 
